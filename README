@@ -1,0 +1,10 @@
+Running Server :
+
+1. Change host address, port, project folder in config.php and server.php
+
+2. Go to your shell command-line interface type: 
+	php -q c:\path\server.php
+
+4. Using browser, navigate to message.php to enter messages.
+
+5. Using browser, navigate to index.php to see realtime notifications.
